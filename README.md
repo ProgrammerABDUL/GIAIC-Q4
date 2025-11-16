@@ -9,9 +9,9 @@ The Q4 focus is on **Prompt Engineering, Context Engineering, and Spec-driven de
 
 | Detail | Value |
 | ------ | ----- |
-| **Instructor** | [Sir Asharib Ali][Instructor GitHub] |
+| **Instructor** | <a href="https://github.com/AsharibAli" target="_blank">Sir Asharib Ali</a> |
 | **Day and Time** | Sunday, 6:00 PM - 9:00 PM(PKT) |
-| **Class Repository link** | [Class Repo][Official GitHub Repo]
+| **Class Repository link** | <a href="https://github.com/AsharibAli/q4-giaic-sunday" target="_blank">Class Repo</a>
 
 ## 🗓️ Quarter Status
 | Key dates | Status |
@@ -33,18 +33,10 @@ This is how the class materials are organized for easy navigation:
 
 Follow this journey and connect with me on these platforms!
 
-- 💼 [LinkedIn][LinkedIn Profile]
-- 💻 [X][X Profile]
-- 🌐 [Medium][Medium Profile]
+- 💼 <a href="https://pk.linkedin.com/in/abdul-rehman-jiwani" target="_blank">LinkedIn</a>
+- 💻 <a href="https://x.com/iamabdulrehman5" target="_blank">X</a>
+- 🌐 <a href="https://abdulrehmanjiwani.medium.com/" target="_blank">Medium</a>
 
 Happy coding 💻
 
-Made with ❤ by [Abdul Rehman Jiwani][GitHub Profile]
-
-<!-- Links -->
-[LinkedIn Profile]: https://pk.linkedin.com/in/abdul-rehman-jiwani
-[X Profile]: https://x.com/iamabdulrehman5
-[Medium Profile]: https://abdulrehmanjiwani.medium.com/
-[GitHub Profile]: https://github.com/ProgrammerABDUL
-[Official GitHub Repo]: https://github.com/AsharibAli/q4-giaic-sunday
-[Instructor GitHub]: https://github.com/AsharibAli
+Made with ❤ by <a href="https://github.com/ProgrammerABDUL" target="_blank">Abdul Rehman Jiwani</a>
