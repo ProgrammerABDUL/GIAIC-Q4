@@ -3,15 +3,15 @@
 ## Overview:
 This repository contains all materials—including assignments, projects, classwork, and code—for the **Governor Initiative for Artificial Intelligence & Computing** (GIAIC) **Fourth Quarter** (Q4) class. This serves as a complete academic portfolio for the quarter.
 
-The Q4 focus is on **Prompt Engineering, Context Engineering, and Spec driven development**.
+The Q4 focus is on **Prompt Engineering, Context Engineering, and Spec-driven development**.
 
 ## 👨‍🏫 Class Details:
 
 | Detail | Value |
 | ------ | ----- |
-| **Instructor** | <a href="https://github.com/AsharibAli" target="_blank" rel="noopener noreferrer">Sir Asharib Ali</a> |
+| **Instructor** | [Sir Asharib Ali][Instructor GitHub] |
 | **Day and Time** | Sunday, 6:00 PM - 9:00 PM(PKT) |
-| **Class Repository link** | <a href="https://github.com/AsharibAli/q4-giaic-sunday" target="_blank" rel="noopener noreferrer">Class Repo</a>
+| **Class Repository link** | [Class Repo][Official GitHub Repo]
 
 ## 🗓️ Quarter Status
 | Key dates | Status |
@@ -33,10 +33,18 @@ This is how the class materials are organized for easy navigation:
 
 Follow this journey and connect with me on these platforms!
 
-- 💼 <a href="https://pk.linkedin.com/in/abdul-rehman-jiwani" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-- 💻 <a href="https://x.com/iamabdulrehman5" target="_blank" rel="noopener noreferrer">X</a>
-- 🌐 <a href="https://abdulrehmanjiwani.medium.com/" target="_blank" rel="noopener noreferrer">Medium</a>
+- 💼 [LinkedIn][LinkedIn Profile]
+- 💻 [X][X Profile]
+- 🌐 [Medium][Medium Profile]
 
 Happy coding 💻
 
-Made with ❤ by <a href="https://github.com/ProgrammerABDUL" target="_blank" rel="noopener noreferrer">Abdul Rehman Jiwani</a>
+Made with ❤ by [Abdul Rehman Jiwani][GitHub Profile]
+
+<!-- Links -->
+[LinkedIn Profile]: https://pk.linkedin.com/in/abdul-rehman-jiwani
+[X Profile]: https://x.com/iamabdulrehman5
+[Medium Profile]: https://abdulrehmanjiwani.medium.com/
+[GitHub Profile]: https://github.com/ProgrammerABDUL
+[Official GitHub Repo]: https://github.com/AsharibAli/q4-giaic-sunday
+[Instructor GitHub]: https://github.com/AsharibAli
